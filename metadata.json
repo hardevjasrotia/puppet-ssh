@@ -2,6 +2,7 @@
   "name": "hardev-ssh",
   "version": "0.1.0",
   "author": "hardev singh <hardev.singh@g123.com>",
+  "author": "hardev singh <hardev.singh@g.com>",
   "summary": "This module will manage ssh.",
   "license": "Apache-2.0",
   "source": "https://github.com/hardevjasrotia/puppet-ssh",
